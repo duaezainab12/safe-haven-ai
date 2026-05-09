@@ -75,11 +75,15 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { title: "SafeSphere AI — Predictive Crime Intelligence" },
       { name: "description", content: "AI-powered crime prediction, safe-route navigation, and emergency response for modern cities." },
       { name: "author", content: "SafeSphere AI" },
-      { property: "og:title", content: "SafeSphere AI" },
-      { property: "og:description", content: "Predict. Prevent. Protect." },
+      { property: "og:title", content: "SafeSphere AI — Predictive Crime Intelligence" },
+      { property: "og:description", content: "AI-powered crime prediction, safe-route navigation, and emergency response for modern cities." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "SafeSphere AI — Predictive Crime Intelligence" },
+      { name: "twitter:description", content: "AI-powered crime prediction, safe-route navigation, and emergency response for modern cities." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b9b551ea-60fe-4643-a39e-27a6d1569a88/id-preview-933e9d63--b8885877-bb04-4483-8285-d78e2c75cb43.lovable.app-1778343163843.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b9b551ea-60fe-4643-a39e-27a6d1569a88/id-preview-933e9d63--b8885877-bb04-4483-8285-d78e2c75cb43.lovable.app-1778343163843.png" },
     ],
     links: [
       {

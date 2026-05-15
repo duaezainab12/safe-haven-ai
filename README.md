@@ -98,7 +98,7 @@ SafeSphere-AI/
 └── .env.example
 ⚙️ Installation
 Clone Repository
-git clone https://github.com/yourusername/SafeSphere-AI.git
+git clone https://github.com/duaezainab12/SafeSphere-AI.git
 cd SafeSphere-AI
 Install Frontend Dependencies
 npm install
@@ -114,7 +114,7 @@ Create a .env file:
 
 VITE_MAPBOX_API_KEY=your_key
 VITE_FIREBASE_API_KEY=your_key
-VITE_BACKEND_URL=http://localhost:8000
+VITE_BACKEND_URL=https://neon-guard-aether.lovable.app/
 🚀 Deployment
 Frontend Deployment (Vercel)
 
